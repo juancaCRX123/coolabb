@@ -1,0 +1,64 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": [],
+      "authorship_tag": "ABX9TyMRWCd4vOrpFVrzf6OL9a6y",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/juancaCRX123/coolabb/blob/main/kDD\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "execution_count": null,
+      "metadata": {
+        "id": "RlcOEJXmVs1k"
+      },
+      "outputs": [],
+      "source": []
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "El proceso KDD (Knowledge Discovery in Databases o Descubrimiento de Conocimiento en Bases de Datos) transforma grandes volúmenes de datos brutos y desorganizados —el \"caos\" acumulado en miles de millones de registros— en conocimiento estructurado e ideas aplicables, como recomendaciones precisas.\n",
+        "\n",
+        "En la práctica, este método sigue una jerarquía que va desde los datos simples hasta la información, el conocimiento y la sabiduría. Para lograr esa transformación, el proceso se divide en varias etapas clave: comprender el valor de los datos, identificar sus orígenes y conceptos básicos, aplicar el flujo metodológico de KDD (que incluye filtrado, procesamiento y minería de datos), evaluar los resultados obtenidos para extraer conocimiento real y, finalmente, llevar estos hallazgos a aplicaciones del mundo real y proyecciones futuras.\n",
+        "\n",
+        "El proceso KDD (Knowledge Discovery in Databases) se enfoca en transformar el \"caos\" de miles de millones de datos desorganizados en conocimiento valioso y soluciones prácticas, como sistemas de recomendación.\n",
+        "\n",
+        "Su objetivo es hacer avanzar la información a través de una jerarquía clara: de datos brutos a información, luego a conocimiento y finalmente a sabiduría. Para lograrlo, pasa por etapas esenciales que van desde la preparación y filtrado de los datos, pasando por la minería de datos (Data Mining), hasta la evaluación final del conocimiento obtenido para su aplicación en el mundo real.\n",
+        "\n",
+        "El valor de los datos radica en transformar la información masiva y no estructurada en un recurso de alto valor, similar a un proceso de refinamiento de minerales. Esta evolución sigue una jerarquía bien definida que pasa de datos brutos a información, luego a conocimiento y finalmente a sabiduría.\n",
+        "\n",
+        "Para lograrlo, la metodología KDD (Knowledge Discovery in Databases) ha evolucionado a lo largo del tiempo. En 1989, Piatetsky-Shapiro acuñó el término durante el primer taller dedicado al tema. Más adelante, en 1996, Fayyad y su equipo formalizaron el proceso paso a paso para estandarizar la extracción de conocimiento. Finalmente, en 2016 la metodología se expandió (KDDS) para adaptarse a las exigencias del Big Data y al procesamiento de datos a escala industrial.\n",
+        "\n",
+        "El proceso KDD (Knowledge Discovery in Databases) constituye una guía metodológica para refinar y transformar grandes volúmenes de datos en conocimiento útil mediante cinco etapas consecutivas.\n",
+        "\n",
+        "Primero, la Selección consiste en aislar el subconjunto de datos adecuado a partir de la fuente general. A continuación, el Preproceso se encarga de depurar la información limpiando datos anómalos y corrigiendo errores. Posteriormente, en la Transformación se aplica una estructura matemática a los datos limpios para prepararlos para el análisis. Luego, la etapa de Minería de datos despliega algoritmos especializados para identificar patrones, relaciones y tendencias ocultas. Por último, en la Evaluación se interpretan y validan los hallazgos para confirmar que representan conocimiento real, valioso y aplicable.\n",
+        "\n",
+        "El proceso KDD tiene aplicaciones directas en diversas industrias, tales como la detección de fraude en finanzas, el diagnóstico temprano en salud y el análisis de canasta de compra en el comercio minorista. Sin embargo, su implementación futura exige abordar la ética y los algoritmos, garantizando un equilibrio adecuado de equidad y la protección de los datos personales, ya que existe un riesgo constante donde la invasión a la privacidad se conecta directamente al reconocimiento de patrones."
+      ],
+      "metadata": {
+        "id": "mwfqPkFDVtah"
+      }
+    }
+  ]
+}
